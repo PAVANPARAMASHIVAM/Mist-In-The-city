@@ -1,0 +1,2 @@
+D:\Games\mist in the city\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Games\mist in the city\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
